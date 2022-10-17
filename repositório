@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title> Resumo do Curso HTML</title>
+    </head>
+    <body>
+        Resumo do curso HTML
+       <h1>Resumo de estrutura e Tags</h1>
+        <p>Neste modulo do curso o professor aborda de forma ampla as estruturas do HTML e tambem fala sobre algumas TAGS que seram ulteis para c# e jatascrip.</p> 
+        <h2>textos</h2>
+        <p>O professor explica as estruturas de formatacao para tipos de textos dentro do HTML</p>
+        <H2>Explicacao de listas ordenadas e nao ordenadas</H2>
+        <p>o professor faz uma explicacao sobre como utilizar as tags OL e UL,com listagem de itens LI </p>
+
+    </body>
+
+</html>
